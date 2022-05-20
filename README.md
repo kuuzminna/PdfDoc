@@ -9,7 +9,7 @@ mvn compile && mvn exec:java -Dexec.mainClass="MainKt"
 [Cсылка для загрузки](https://wiki.tcsbank.ru/pages/viewpage.action?pageId=1478113246)
 
 
-## ДЕДЛАЙН - 18 мая
+## ДЕДЛАЙН - 20 мая
 
 Написать консольное приложение, которое на выходе создает PDF файл с данными случайных людей.
 
